@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "231226605669",
+    "project_id": "notex-90a80",
+    "storage_bucket": "notex-90a80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231226605669:android:b8342c3799cdb19f0b468c",
+        "android_client_info": {
+          "package_name": "hu.h164943.notex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231226605669-asdfq3mnqbnjbkr85emilinpladgvgle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.h164943.notex",
+            "certificate_hash": "952d84a276efa07a84c1ee86bfdbfd738ff2b08e"
+          }
+        },
+        {
+          "client_id": "231226605669-i9jsta3f782c7hssd9u78sf0f99llk4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ9YkMpOEUMtdtV9lveS30QaDKr57KWFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231226605669-apdroln077d6vfkmh1nclaj4jolinldt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
